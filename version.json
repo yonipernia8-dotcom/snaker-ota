@@ -1,0 +1,22 @@
+{
+    "schema":  1,
+    "manifestVersion":  2,
+    "publishedAt":  "2026-11-08T21:48:11Z",
+    "minLauncherVersionCode":  1,
+    "game":  {
+                 "package":  "com.legacyforge.ark",
+                 "dataDir":  "/storage/emulated/0/Android/obb/com.legacyforge.ark"
+             },
+    "packages":  [
+                     {
+                         "id":  "snaker-content",
+                         "kind":  "zip",
+                         "version":  1,
+                         "url":  "https://example.com/ota/snaker-content.zip",
+                         "fileName":  "snaker-content.zip",
+                         "sha256":  "0227d9767a7cd7379d10775371364c468f9a0bed2a272841156b92f00fbbabc8",
+                         "sizeBytes":  997535129,
+                         "target":  "ShooterGame/Content/Paks"
+                     }
+                 ]
+}
